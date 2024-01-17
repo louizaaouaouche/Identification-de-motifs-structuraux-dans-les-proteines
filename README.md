@@ -1,1 +1,5 @@
-# louizaaouaouche-Identification-de-motifs-structuraux-dans-les-proteines
+# Identification de motifs structuraux dans les protéines
+**Cadre** : Projet académique dans le cadre de la Licence 2 en informatique à Sorbonne Université.
+
+**Objectif** : Ce projet consiste à développer des algorithmes et les programmer avec la meilleure complexité possible afin d’identifier au mieux les similarités structurales dans des séquences de protéines. Pour cela, nous nous sommes basées sur l’algorithme de Karp-Miller-Rosenberg qui détecte les répétitions dans une structure de données. En premier lieu, nous avons élaboré un algorithme en une seule dimension qui permet d’étudier la composition de la structure protéique en retrouvant les répétitions de motifs dans un ou plusieurs génomes composé(s) d’acides aminés où chacun d’eux est identifié par une lettre. En second lieu, nous sommes passés en deux dimensions où nous retrouvons
+les similarités structurales d’une chaîne protéique selon les positions dans l’espace des acides aminés (identifiés par leurs Carbone α). Les algorithmes ainsi développés ont fait naître des programmes (codés en Python) sur lesquels nous avons effectué une étude expérimentale en terme de complexité et de temps d’exécution.
